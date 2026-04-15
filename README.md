@@ -13,7 +13,11 @@ hello <sub>subscript</sub>
 below is the code 
 ~~~
 insert random code
+var cat
+var dog
+var lizard
 
 
-### third heading
+###third heading
 the link is here [Youtube](Link)
+this is the file [readme2.md](/readme2.md)
